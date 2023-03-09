@@ -8,6 +8,8 @@ Following [these instructions](https://github.com/petersalomonsen/wasm-git/blob/
 
 `curl -L https://github.com/libgit2/libgit2/archive/refs/tags/v1.5.0.tar.gz --output libgit2.tar.gz`
 
+I did:
+
 ```
 git clone https://github.com/libgit2/libgit2
 gh pr checkout 6396 # gh is github CLI https://cli.github.com
